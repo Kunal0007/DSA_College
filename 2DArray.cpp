@@ -13,7 +13,7 @@ int main() {
    }
    
    int sum, max;
-   sum = 0;
+   sum = 0; 
    max = INT8_MIN;
    for (int i = 0; i < 4; i++) {
        for (int j = 0; j < 4; j++) {
